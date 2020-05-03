@@ -1,6 +1,6 @@
 # Basic customised business card :money_mouth_face:
 
-A new Flutter project.
+Learnt the application of circle avatar, ListTile, Card, divider, layouts, using customised fonts etc.
 
 ## Getting Started
 
