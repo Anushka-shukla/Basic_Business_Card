@@ -2,6 +2,9 @@
 
 Learnt the application of circle avatar, ListTile, Card, divider, layouts, using customised fonts etc.
 
+## The screenshot is attached below :
+![test](https://github.com/Anushka-shukla/Basic_Business_Card/blob/master/lib/assets/WhatsApp%20Image%202020-05-04%20at%205.32.51%20PM%20(1).jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
